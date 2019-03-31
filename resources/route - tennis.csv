@@ -1,0 +1,6 @@
+Country,Currency,Token,VIP,Route
+US,-,Adyen,-,AdyenUS
+Brazil,-,-,-,Braspag
+US,-,Liaison,-,Braintree
+-,-,-,TRUE,AdyenUK
+-,-,-,-,-
